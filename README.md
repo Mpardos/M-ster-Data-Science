@@ -4,8 +4,4 @@ Hola
 
 vamos a cenar
 
-jlasdjfl
-
-juan y ju
-
 
