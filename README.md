@@ -1,3 +1,3 @@
 # Master-Data-Science Kschool
 
-### Material del curso de introducción a Python impartido por Kschool
+### Material introductorio a Python del impartido por Kschool
